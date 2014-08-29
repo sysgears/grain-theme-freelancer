@@ -13,3 +13,6 @@ build
 out
 target
 /nbproject/private/
+/nbbuild/
+build.xml
+/nbproject/
