@@ -98,5 +98,5 @@ Grain Bootstrap Theme Freelancer is licensed under the terms of the
 
 [Apache License, Version 2.0]: http://www.apache.org/licenses/LICENSE-2.0.html
 [Developer Certificate of Origin]: https://raw.github.com/sysgears/grain/master/DCO
-[Agency Template]: http://startbootstrap.com/template-overviews/freelancer/
+[Freelancer Template]: http://startbootstrap.com/template-overviews/freelancer/
 [documentation]: http://sysgears.com/grain/docs/latest/
