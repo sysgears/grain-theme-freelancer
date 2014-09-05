@@ -7,7 +7,8 @@ resource_mapper = new ResourceMapper(site).map
 tag_libs = [ThemeTagLib]
 
 features {
-    highlight = 'pygments' // 'none', 'pygments'
+    highlight = 'none'     // 'none', 'pygments'
+    compass = 'none'       // 'none', 'default'
     markdown = 'txtmark'   // 'txtmark', 'pegdown'
 }
 
@@ -26,12 +27,6 @@ environments {
             minify_html = false
             minify_js = false
             minify_css = false
-        }
-    }
-    cmd {
-        features {
-            compass = 'none'
-            highlight = 'none'
         }
     }
 }
