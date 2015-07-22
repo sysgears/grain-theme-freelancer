@@ -25,4 +25,15 @@ class ThemeTagLib {
 
         String.format("%tFT%<tT${tz.substring(0, 3)}:${tz.substring(3)}", model.date)
     }
+
+    /**
+     * Converts a string to snake case. For example: "Test String" -> test_string.
+     *
+     * @attr str the string to convert
+     */
+    def toSnakeCase = { Map model ->
+        if (!model.str) throw new IllegalArgumentException('Tag [toSnakeCase] is missing required attribute [str]')
+
+        model.str.replace(/ /, /-/).toLowerCase()
+    }
 }

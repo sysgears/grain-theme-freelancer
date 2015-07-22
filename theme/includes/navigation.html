@@ -20,7 +20,7 @@
                 </li>
                 <% 
                     page.sections.each { Map section ->
-                        def id = "#" + section.name.replace(" ", "-").toLowerCase()
+                        def id = "#" + toSnakeCase(str: section.name)
                 %>
                 <li class="page-scroll">
                     <a href="${id}">${section.name}</a>
