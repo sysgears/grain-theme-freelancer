@@ -1,6 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/sysgears/grain-theme-freelancer/master/banner.jpg)
 
-#Grain Bootstrap Freelancer Theme
+Grain Bootstrap Freelancer Theme
+================================
 
 This one page [Grain] theme is based on Start Bootstrap [Freelancer Template].
 
