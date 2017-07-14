@@ -3,6 +3,8 @@
 Grain Bootstrap Freelancer Theme
 ================================
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/sysgears.svg?style=social)](https://twitter.com/sysgears)
+
 This one page [Grain] theme is based on Start Bootstrap [Freelancer Template].
 
 Please, refer to the [theme page] and the [documentation] for further details.
